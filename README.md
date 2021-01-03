@@ -44,14 +44,14 @@ Customers do not opt into the offers that they receive; in other words, a user c
 * value - (dict) - either an offer ID or transaction amount depending on the record
 
 
-## Data Model <a name="Model"></a>
+## Data Modeling <a name="Model"></a>
 - After pre-processing the dataset and after visualization the next part is to make a model that figure out whether the customer responded to offer or not.
 
 - Here I used five different types of models that will predict whether the customer responded to offer or not.
 
 - To make a model we will split the data into features and target and also in training and testing data.
 
-- Features are time_h, offer_id, amount, reward, difficulty, duration_h, offer_type, gender, age_group, income_range, member_type
+- Features are monetory, frequency, spend_group, time_h, offer_id, amount, reward, difficulty, duration_h, offer_type, gender, age_group, income_range, member_type
 
 - Target is the event.
 
