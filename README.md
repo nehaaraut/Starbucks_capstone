@@ -55,5 +55,5 @@ Customers do not opt into the offers that they receive; in other words, a user c
 
 - Target is the event.
 
-## Blog Website <a name="Blog"></a>
-A blog has been published  [Analyzing The Starbuck Offers](https://medium.com/@ashwanisng/analyzing-the-starbuck-offers-4189fef3a8cf)
+## Blog  <a name="Blog"></a>
+A blog is been published on medium. [Capstone Starbucks Challenge](https://nehaa-139.medium.com/how-to-entertain-customers-for-using-offers-with-starbucks-bc9ea25e310)
