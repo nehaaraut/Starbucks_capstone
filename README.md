@@ -44,7 +44,7 @@ Customers do not opt into the offers that they receive; in other words, a user c
 * value - (dict) - either an offer ID or transaction amount depending on the record
 
 
-## Data Modeling <a name="Model"></a>
+## Data Modeling 
 - After pre-processing the dataset and after visualization the next part is to make a model that figure out whether the customer responded to offer or not.
 
 - Here I used five different types of models that will predict whether the customer responded to offer or not.
@@ -55,5 +55,5 @@ Customers do not opt into the offers that they receive; in other words, a user c
 
 - Target is the event.
 
-## Blog  <a name="Blog"></a>
-A blog is been published on medium. [Capstone Starbucks Challenge](https://nehaa-139.medium.com/how-to-entertain-customers-for-using-offers-with-starbucks-bc9ea25e310)
+## Related Blog
+A blog is been published on medium [Capstone Starbucks Challenge](https://nehaa-139.medium.com/how-to-entertain-customers-for-using-offers-with-starbucks-bc9ea25e310)
